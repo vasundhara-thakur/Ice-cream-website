@@ -26,4 +26,4 @@ This project focuses on smooth UI interactions, dynamic content updates, and mod
 
 ## Live
 
-[Click here]()
+[Click here](https://icecreamwebpage.netlify.app/)
